@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\tania yushkyn\source\repos\15.08.19\15.08.19\source.cpp(166): warning C4715: 'Dil': not all control paths return a value
+c:\users\tania yushkyn\source\repos\15.08.19\15.08.19\source.cpp(146): warning C4715: 'Dil': not all control paths return a value
+c:\users\tania yushkyn\source\repos\15.08.19\15.08.19\source.cpp(176): warning C4715: 'Dil': not all control paths return a value
+c:\users\tania yushkyn\source\repos\15.08.19\15.08.19\source.cpp(156): warning C4715: 'Dil': not all control paths return a value
+  15.08.19.vcxproj -> C:\Users\tania yushkyn\source\repos\15.08.19\Debug\15.08.19.exe
