@@ -116,6 +116,19 @@ using namespace std;
 
 
 
+
+
+
+//Написати рекурсивну функцію, яка отримує рядок 5 символів і підраховує кількість цифр у цьому рядку.
+//
+//
+//Надіслати повідомлення
+//
+
+
+
+
+
 void Fill(char mas[], const int SIZE);
 void Print(char mas[], const int SIZE);
 
