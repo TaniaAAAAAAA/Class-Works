@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\tania yushkyn\source\repos\27.08.19\27.08.19\source.cpp(214): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tania yushkyn\source\repos\27.08.19\27.08.19\source.cpp(240): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tania yushkyn\source\repos\27.08.19\27.08.19\source.cpp(222): error C4716: 'Isnyv': must return a value
