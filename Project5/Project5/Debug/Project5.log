@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\tania yushkyn\source\repos\project5\project5\source.cpp(43): warning C4715: 'Funk': not all control paths return a value
+  Project5.vcxproj -> C:\Users\tania yushkyn\source\repos\Project5\Debug\Project5.exe
